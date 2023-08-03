@@ -48,7 +48,7 @@ My first milestone was to wire up my breadboard to have the three LED lights tur
 
 
 # Schematics 
-Screenshot-2023-07-26-at-10.26.47-AM.PNG
+![Headstone Image](Screenshot-2023-07-26-at-10.26.47-AM.PNG)
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
