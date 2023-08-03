@@ -42,8 +42,6 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t69B1PQtK7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My first milestone was to wire up my breadboard to have the three LED lights turn on when the red and white wires touch each other. I connected my Arduino UNO to my breadboard and downloaded my code for it. I also added a 2K resistor to divide the current. I struggled at first trying to learn the basics of breadboarding, so I watched many videos. The resistor would also not stay in place, which made it difficult to work all together. But after many adjustments, I got it to work! For the next Milestone I am going to create the finger straps for the two wires and build it a home using cardboard.
