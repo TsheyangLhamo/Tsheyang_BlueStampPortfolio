@@ -30,15 +30,10 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PkrtjiQfmDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+For my second milestone, I stripped the two wires and used aluminum fold and velcro to make the finger straps, and I made a box for my arduino and breadboard out of cardboard. I added two holes for the finger straps to go through and for the wire to be able to connect to my computer. For now, we can determine if someone was lying based on the serial plotter. It indirectly measures the person's skin conductivity shown on a graph by outputting a voltage dependent on the skin conductivity which will help identify when the data changes its pattern. If the pattern changes, then it means the person was lying. A struggle I am currently facing is trying to get my Led lights to turn on. Which is what I am going to fix for milestone 3. I am gonna try changing the size of my resistor to change the sensitivity (adding a potentiometer will let the user vary the resistance in real time) and I am also adding a battery pack so I don’t have to keep my lie detector connected to my computer. 
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
 
 # First Milestone
 
