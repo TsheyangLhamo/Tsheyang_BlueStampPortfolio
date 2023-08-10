@@ -18,12 +18,7 @@ Were you ever in a situation where you wanted to know if your friend was lying t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
+For my final milestone, I soldered the Led lights and added a 10 k potentiometer to change the sensitivity. Then I added a lid, with a hole so the led lights can poke out. Something I struggled with was trying to solder my Led lights, because the wires would randomly fall off and my iron wouldn't let me melt the solder properly, but after a lot of tries I ended up getting that done. Overall at bluestamp, I learned the basics of breadboarding and how to solder. In the future, I hope to create more projects and gain more soldering practice.
 
 
 # Second Milestone
