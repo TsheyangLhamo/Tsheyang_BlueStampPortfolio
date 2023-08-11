@@ -93,5 +93,15 @@ else
 | potentiometer | to change the sensitivity | $11.99 | <a href="https://www.amazon.com/Swpeet-Potentiometer-Assortment-Multiturn-HighPrecision/dp/B07ZKK6T8S/ref=sr_1_1_sspacrid=3U5FBULMX91HC&keywords=potentiometer%2Bkit&qid=1691786783&sprefix=potentiometer%2Bkit%2Caps%2C86&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1/"> Link </a> |
 | Resistor | egulates the flow of electrical current  | $5.99 | <a href="https://www.amazon.com/MCIGICM-Values-Resistor-Assortment-Resistors/dp/B06WRQS97C/ref=sr_1_4?keywords=resistor&qid=1691787431&sr=8-4/"> Link </a> |
 | Tin foil  | finger straps | $4.78 | <a href="https://www.amazon.com/Reynolds-Wrap-Heavy-Aluminum-Square/dp/B0014D0TB2/ref=sr_1_2_sspa?crid=UUODJH4VSJ25&keywords=tin+foil&qid=1691787565&sprefix=tin+foil%2Caps%2C113&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link </a> |
-| Velcro| finger straps | $Price | <a href="https://www.amazon.com/Sticky-Fastener-Adhesive-Crafting-Organization/dp/B08KP577YY/ref=sr_1_1_sspa?crid=316TJ4DQA33OJ&keywords=velcro&qid=1691787730&sprefix=velcro%2Caps%2C134&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Velcro| finger straps | $15.79 | <a href="https://www.amazon.com/Sticky-Fastener-Adhesive-Crafting-Organization/dp/B08KP577YY/ref=sr_1_1_sspa?crid=316TJ4DQA33OJ&keywords=velcro&qid=1691787730&sprefix=velcro%2Caps%2C134&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1/"> Link </a> |
+| Cardboard | housing | $21.95 | <a href="https://www.amazon.com/Corrugated-Cardboard-Packaging-Gift-Boutique/dp/B08JQQ8TRJ/ref=sr_1_1_sspa?crid=3VZ8S8TRMR21E&keywords=cardboard&qid=1691787959&sprefix=cardb%2Caps%2C121&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link </a> |
+| Hot Glue | To keep items in place | $17.99 | <a href="https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP/ref=sr_1_6?crid=17NBOA7WEMV7T&keywords=hot%2Bglue%2Bgun&qid=1691788018&sprefix=hot%2Bglue%2B%2Caps%2C100&sr=8-6&th=1/"> Link </a> |
+
+
+# Tools
+
+| **Part** | **Price** | **Link** |
+|:--:|:--:|:--:|
+| Soldering Kit | To keep items in place | $17.99 | <a href="https://www.amazon.com/Soldering-Iron-Kit-Temperature-Desoldering/dp/B07S61WT16/"> Link </a> |
+| wire strippers | To keep items in place | $6.99 | <a href="https://www.amazon.com/gp/product/B097STWW4Q/ref=ox_sc_act_title_1?smid=AZ0MMPOLVYF3T&psc=1/"> Link </a> |
+| Hot Glue | To keep items in place | $17.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
