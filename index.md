@@ -102,5 +102,5 @@ else
 
 | **Part** | **Price** | **Link** |
 |:--:|:--:|:--:|
-| Soldering Kit | To keep items in place | $17.99 | <a href="https://www.amazon.com/Soldering-Iron-Kit-Temperature-Desoldering/dp/B07S61WT16/"> Link </a> |
-| wire strippers | To keep items in place | $6.99 | <a href="https://www.amazon.com/gp/product/B097STWW4Q/ref=ox_sc_act_title_1?smid=AZ0MMPOLVYF3T&psc=1/"> Link </a> |
+| Soldering Kit | $17.99 | <a href="https://www.amazon.com/Soldering-Iron-Kit-Temperature-Desoldering/dp/B07S61WT16/"> Link </a> |
+| wire strippers | $6.99 | <a href="https://www.amazon.com/gp/product/B097STWW4Q/ref=ox_sc_act_title_1?smid=AZ0MMPOLVYF3T&psc=1/"> Link </a> |
