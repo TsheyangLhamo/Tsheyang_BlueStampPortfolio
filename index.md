@@ -36,7 +36,9 @@ My first milestone was to wire up my breadboard to have the three LED lights tur
 ![Headstone Image](IMG-9776.JPG)
 
 # Code
-``` void setup() {
+
+```Arduino
+void setup() {
   Serial.begin(9600);
   pinMode(2, OUTPUT);
   pinMode(3, OUTPUT);
@@ -78,7 +80,7 @@ else
   
   Serial.println(analogRead(A0));
   delay(20);
-} ```
+}```
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
