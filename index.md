@@ -9,7 +9,7 @@ Were you ever in a situation where you wanted to know if your friend was lying t
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Tsheyang L | Fiorello H. Laguardia High shcool | Computer Science | Incoming Senior
-![Headstone Image]() ![Headstone Image]()
+![Headstone Image](IMG_0018 (2).jpg) ![Headstone Image]()
   
 # Final Milestone
 
