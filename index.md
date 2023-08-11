@@ -34,7 +34,7 @@ My first milestone was to wire up my breadboard to have the three LED lights tur
 # Schematics 
 ![Headstone Image](Screenshot-2023-07-26-at-10.26.47-AM.PNG)
 ![Headstone Image](IMG-9776.JPG)
-![Headstone Image]()
+![Headstone Image](IMG_9956 (2).jpeg)
 ![Headstone Image](IMG_9973 (1).jpeg)
 ![Headstone Image]()
 
