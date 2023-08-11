@@ -38,18 +38,49 @@ My first milestone was to wire up my breadboard to have the three LED lights tur
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
-```c++
 void setup() {
-  // put your setup code here, to run once:
   Serial.begin(9600);
-  Serial.println("Hello World!");
+  pinMode(2, OUTPUT);
+  pinMode(3, OUTPUT);
+  pinMode(4, OUTPUT);
+  digitalWrite(2, HIGH);
+  delay(500);
+  digitalWrite(3, HIGH);
+  delay(500);
+  digitalWrite(4, HIGH);
+  delay(500);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-
+   if (analogRead(A0) > 60)
+{
+  digitalWrite(4, HIGH);
 }
-```
+else
+{
+  digitalWrite(4, LOW);
+}
+  if (analogRead(A0) > 45)
+{
+  digitalWrite(2, HIGH);
+}
+else
+{
+  digitalWrite(2, LOW);
+}
+  if (analogRead(A0) > 0)
+{
+  digitalWrite(3, HIGH);
+}
+else
+{
+  digitalWrite(3 , LOW);
+}
+
+  
+  Serial.println(analogRead(A0));
+  delay(20);
+}
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
