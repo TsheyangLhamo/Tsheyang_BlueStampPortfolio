@@ -11,7 +11,7 @@ Were you ever in a situation where you wanted to know if your friend was lying t
 | Tsheyang L | Fiorello H. Laguardia High shcool | Computer Science | Incoming Senior
 
 
-![Headstone Image](IMG_0018(2).jpg)  
+![Headstone Image](IMG_0018 (2).jpg)  
 ![Headstone Image](IMG_0015.jpeg)
   
 # Final Milestone
