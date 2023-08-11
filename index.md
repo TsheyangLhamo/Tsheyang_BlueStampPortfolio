@@ -91,7 +91,7 @@ else
 | LED lights | Soldering | $2.99 | <a href="https://www.banggood.com/200Pcs-3MM-LED-Light-Assorted-Kit-Red-Green-Blue-Yellow-White-DIY-LEDs-Set-p-1018612.html?p=3S161310753936201705&cur_warehouse=CN/"> Link </a> |
 | Jumper wires | connection wires | $6.98 | <a href="https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78)/"> Link </a> |
 | potentiometer | to change the sensitivity | $11.99 | <a href="https://www.amazon.com/Swpeet-Potentiometer-Assortment-Multiturn-HighPrecision/dp/B07ZKK6T8S/ref=sr_1_1_sspacrid=3U5FBULMX91HC&keywords=potentiometer%2Bkit&qid=1691786783&sprefix=potentiometer%2Bkit%2Caps%2C86&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Resistor | egulates the flow of electrical current  | $5.99 | <a href="https://www.amazon.com/MCIGICM-Values-Resistor-Assortment-Resistors/dp/B06WRQS97C/ref=sr_1_4?keywords=resistor&qid=1691787431&sr=8-4/"> Link </a> |
+| Tin foil  | finger straps | $4.78 | <a href="https://www.amazon.com/Reynolds-Wrap-Heavy-Aluminum-Square/dp/B0014D0TB2/ref=sr_1_2_sspa?crid=UUODJH4VSJ25&keywords=tin+foil&qid=1691787565&sprefix=tin+foil%2Caps%2C113&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link </a> |
+| Velcro| finger straps | $Price | <a href="https://www.amazon.com/Sticky-Fastener-Adhesive-Crafting-Organization/dp/B08KP577YY/ref=sr_1_1_sspa?crid=316TJ4DQA33OJ&keywords=velcro&qid=1691787730&sprefix=velcro%2Caps%2C134&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
