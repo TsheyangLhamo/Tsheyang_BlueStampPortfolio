@@ -1,14 +1,10 @@
 # Lie Detector 
 Were you ever in a situation where you wanted to know if your friend was lying to you? Well in this project, we can determine just that by measuring the change in someone's skin conductivity depending on their mood. 
 
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Tsheyang L | Fiorello H. Laguardia High shcool | Computer Science | Incoming Senior
+| Tsheyang L | Fiorello H. Laguardia High School | Computer Science | Incoming Senior
 
 
 ![Headstone Image](IMG_0018 (2).jpg)  
